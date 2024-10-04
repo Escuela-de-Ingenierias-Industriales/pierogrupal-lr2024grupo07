@@ -2,3 +2,8 @@ A2 IZQ?
 A3 DCH?
 PWM Motor Derecho       Adelante:11       Atras:12
 PWM Motor Izquierdo     Adelante:9        Atras:10
+Encoder Izquierdo       D18    D19
+Encoder Derecho         D2     D3
+Led R    49
+Led G    51
+Led B    53
